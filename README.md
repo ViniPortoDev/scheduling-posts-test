@@ -1,6 +1,6 @@
-# Instagram Post Scheduler
+# Post Scheduler
 
-Aplicativo Flutter para agendamento de postagens no Instagram desenvolvido como desafio técnico.
+Aplicativo Flutter para agendamento de postagens.
 
 ## 📱 Funcionalidades
 
@@ -8,7 +8,7 @@ Aplicativo Flutter para agendamento de postagens no Instagram desenvolvido como 
 - **Visualização por Data**: Exibe todas as postagens agendadas para a data selecionada
 - **Persistência Local**: Mantém os dados salvos entre reinicializações do app
 - **Interface Responsiva**: Adapta-se a diferentes tamanhos de tela (smartphone e tablet)
-- **UI/UX Intuitiva**: Interface simples e funcional com tema inspirado no Instagram
+- **UI/UX Intuitiva**: Interface simples e funcional
 
 ## 🚀 Como Executar
 
@@ -22,8 +22,8 @@ Aplicativo Flutter para agendamento de postagens no Instagram desenvolvido como 
 
 1. Clone o repositório:
 ```bash
-git clone [URL_DO_REPOSITORIO]
-cd instagram_scheduler
+git clone https://github.com/ViniPortoDev/scheduling-posts-test
+cd post_scheduler
 ```
 
 2. Instale as dependências:
@@ -73,7 +73,7 @@ O aplicativo foi desenvolvido seguindo boas práticas de Flutter:
 - Componentes se ajustam automaticamente ao tamanho da tela
 
 #### 5. UI/UX
-- Tema personalizado com cores do Instagram (#E4405F)
+- Tema personalizado com cores (#E4405F)
 - Cards com elevação e bordas arredondadas
 - Ícones intuitivos e feedback visual
 - Confirmação antes de excluir postagens
@@ -115,7 +115,6 @@ Possíveis melhorias que poderiam ser implementadas:
 - Exportação/importação de dados
 - Notificações locais para lembrar das postagens
 - Suporte a imagens/mídia
-- Integração real com API do Instagram
 
 ## 📝 Notas Técnicas
 
